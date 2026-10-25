@@ -32,7 +32,7 @@ A production-ready application leveraging Google Gemini's Multimodal Suite to an
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Parikshit-7Yami/Food-Verse-AI.git
+git clone https://github.com/palaksarathe06-pixel/Food-Verse-AI
 cd Food-Verse-AI
 
 # 2. Install dependencies
@@ -54,7 +54,7 @@ streamlit run app.py
 ## ☁️ Deploy to Render Portal
 
 1. Log in to **[render.com](https://render.com/)** and click **New +** → **Web Service**.
-2. Connect your GitHub repository: `https://github.com/Parikshit-7Yami/Food-Verse-AI`.
+2. Connect your GitHub repository: `https://github.com/palaksarathe06-pixel/Food-Verse-AI`.
 3. Configure the Web Service:
    - **Runtime:** `Python 3`
    - **Branch:** `main`
